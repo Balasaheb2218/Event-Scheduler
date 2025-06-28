@@ -9,6 +9,7 @@ Technologies Used:
 4)Postman
 
 
+
 How To Run Application:
 
 1)Open EventSchedulerSystemApplication.java
